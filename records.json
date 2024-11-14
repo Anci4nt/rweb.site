@@ -13,7 +13,6 @@
     "weblog": "weblogbd.vercel.app",
     "www": "katorlys.github.io/rweb.site",
     "1dst": "1d10t1c-stud10s.github.io",
-    "ancient": "https://anci4nt.netlify.app"
   },
   "reserved": [
     "ai",
@@ -117,7 +116,6 @@
     "website",
     "workspace",
     "xxx",
-    "zeabur",
-    "netlify"
+    "zeabur"
   ]
 }
